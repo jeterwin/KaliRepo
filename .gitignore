@@ -1,0 +1,9 @@
+# Local History for Visual Studio Code
+.history/
+.vs
+.vscode
+build
+dist
+.dist
+.idea
+cmake-build-debug/*
